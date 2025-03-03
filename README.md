@@ -86,7 +86,6 @@
         <img src="https://skillicons.dev/icons?i=tailwind" width="48" height="48" alt="Tailwind CSS" />
         <br>Tailwind CSS
       </td>
-      
     </tr>
   </table>
 
