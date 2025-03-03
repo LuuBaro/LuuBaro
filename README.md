@@ -56,11 +56,11 @@
         <br>SQL
       </td>
       <td align="center" width="96">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Camunda-logo.png/320px-Camunda-logo.png" width="48" height="48" alt="Camunda" />
+       <img src="https://upload.wikimedia.org/wikipedia/commons/3/3f/Camunda-logo.png" width="48" height="48" alt="Camunda" />
         <br>Camunda
       </td>
       <td align="center" width="96">
-        <img src="https://upload.wikimedia.org/wikipedia/en/9/9a/Jaspersoft_logo.png" width="48" height="48" alt="JasperReports" />
+       <img src="https://upload.wikimedia.org/wikipedia/en/9/9a/Jaspersoft_logo.png" width="48" height="48" alt="JasperReports" />
         <br>JasperReports
       </td>
       <td align="center" width="96">
