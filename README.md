@@ -36,9 +36,9 @@
           <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="React" width="65" height="65" />
           <br>React
       </td>
-      <td align="center" width="96">
-          <img src="https://skillicons.dev/icons?i=jquery" width="48" height="48" alt="jQuery" />
-          <br>jQuery
+     <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=angular" width="48" height="48" alt="Angular" />
+        <br>Angular
       </td>
       <td align="center" width="96">
           <img src="https://techstack-generator.vercel.app/restapi-icon.svg" width="65" height="65" alt="Rest API" />
@@ -86,10 +86,7 @@
         <img src="https://skillicons.dev/icons?i=tailwind" width="48" height="48" alt="Tailwind CSS" />
         <br>Tailwind CSS
       </td>
-       <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=angular" width="48" height="48" alt="Angular" />
-        <br>Angular
-      </td>
+      
     </tr>
   </table>
 
