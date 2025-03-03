@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **Spigot Plugin API, Discord Bot Development**
 
-- 👨‍💻 All of my projects are available at [github.com/tranquoccuong0179](https://github.com/LuuBaro)
+- 👨‍💻 All of my projects are available at [github.com/LuuBaro](https://github.com/LuuBaro)
 
 - 💬 Ask me about **Java**
 
