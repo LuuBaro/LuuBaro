@@ -25,8 +25,8 @@
           <br>Spring
       </td>
       <td align="center" width="96">
-          <img src="https://skillicons.dev/icons?i=dotnet" width="48" height="48" alt=".NET" />
-          <br>.NET
+        <img src="https://skillicons.dev/icons?i=vite" width="48" height="48" alt="Vite" />
+        <br>Vite
       </td>
       <td align="center" width="96">
           <img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="TypeScript" width="65" height="65" />
@@ -63,16 +63,12 @@
           <br>Docker
       </td>
       <td align="center" width="96">
-          <img src="https://ps.w.org/redis-cache/assets/icon-128x128.gif?rev=2568513" width="48" height="48" alt="Redis" />
-          <br>Redis
+        <img src="https://skillicons.dev/icons?i=postgres" width="48" height="48" alt="PostgreSQL" />
+        <br>PostgreSQL
       </td>
       <td align="center" width="96">
           <img src="https://www.gstatic.com/devrel-devsite/prod/v1698cdd3153b47734bb6d9d8688c4490898207543be76b2c5805f109c27c7695/firebase/images/touchicon-180.png" width="48" height="48" alt="Firebase" />
           <br>Firebase
-      </td>
-       <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=postgres" width="48" height="48" alt="PostgreSQL" />
-        <br>PostgreSQL
       </td>
       <td align="center" width="96">
           <img src="https://skillicons.dev/icons?i=figma" width="48" height="48" alt="Figma" />
@@ -81,10 +77,6 @@
        <td align="center" width="96">
        <img src="https://img.icons8.com/?size=100&id=37PBwQwtRMDZ&format=png" width="48" height="48" alt="Keycloak" />
         <br>Keycloak
-      </td>
-      <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=vite" width="48" height="48" alt="Vite" />
-        <br>Vite
       </td>
       <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=vue" width="48" height="48" alt="Vue.js" />
