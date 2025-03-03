@@ -64,7 +64,7 @@
         <br>JasperReports
       </td>
       <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=keycloak" width="48" height="48" alt="Keycloak" />
+        <img src="[https://skillicons.dev/icons?i=keycloak](https://img.icons8.com/?size=100&id=37PBwQwtRMDZ&format=png&color=000000)" width="48" height="48" alt="Keycloak" />
         <br>Keycloak
       </td>
       <td align="center" width="96">
