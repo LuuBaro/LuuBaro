@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Lưu Gia Bảo</h1>
 <h3 align="center">Embrace the bugs, for they teach us the value of perseverance and creativity.</h3>
 
-- 🌱 I’m currently learning **Spigot Plugin API, Discord Bot Development**
+- 🌱 I’m currently learning **Spigot Plugin API, Petcare Development**
 
 - 👨‍💻 All of my projects are available at [github.com/LuuBaro](https://github.com/LuuBaro)
 
