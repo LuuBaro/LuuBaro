@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Lưu Gia Bảo</h1>
+<h1 align="center">Hi 👋, I'm Luu Gia Bao</h1>
 <h3 align="center">Embrace the bugs, for they teach us the value of perseverance and creativity.</h3>
 
 - 🌱 I’m currently learning **Spigot Plugin API, Pet care Development**
