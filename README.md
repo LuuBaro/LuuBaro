@@ -94,5 +94,5 @@
 <h3 align="center">💻 My Stats! 💻</h3>
 
 
-![Snake animation](https://raw.githubusercontent.com/LuuBaro/output/github-contribution-grid-snake.svg)
+![Snake animation](https://raw.githubusercontent.com/LuuBaro/LuuBaro/output/github-contribution-grid-snake.svg)
 
