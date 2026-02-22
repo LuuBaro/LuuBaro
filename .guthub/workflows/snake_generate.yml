@@ -8,10 +8,10 @@ on:
   # Cho phép người dùng kích hoạt thủ công từ giao diện GitHub Actions
   workflow_dispatch:
 
-  # Tự động chạy khi có push lên nhánh master
+  # Tự động chạy khi có push lên nhánh main
   push:
     branches:
-      - master
+      - main
 
 jobs:
   generate:
