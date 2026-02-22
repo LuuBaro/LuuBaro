@@ -93,9 +93,6 @@
 
 <h3 align="center">💻 My Stats! 💻</h3>
 
-### 🐍 Contribution Snake
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/LuuBaro/output/github-contribution-grid-snake.svg" alt="snake animation"/>
-</p>
+![Snake animation](https://raw.githubusercontent.com/LuuBaro/LuuBaro/output/github-contribution-grid-snake.svg)
 
